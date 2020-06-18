@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car App</string>
+    <string name="main_logo_description">Logo</string>
+    <string-array name="modeloptions">
+        <item>Sedan</item>
+        <item>Hatchback</item>
+        <item>Cabrio</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiple Activities and Intents</string>
+    <string name="hint">Enter Text</string>
+    <string name="send">Send Message</string>
+</resources>

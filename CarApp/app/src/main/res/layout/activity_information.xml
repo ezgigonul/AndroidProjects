@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/images"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".InformationActivity">
+
+    <ImageView
+        android:id="@+id/imgcar"
+        android:layout_width="342dp"
+        android:layout_height="320dp"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="132dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/modelcar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="TextView"
+        android:textColor="@color/purple"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <TextView
+        android:id="@+id/descriptioncar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blue"
+        android:textSize="15dp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="389dp" />
+</LinearLayout>

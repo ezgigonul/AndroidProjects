@@ -1,0 +1,104 @@
+<resources>
+    //login
+    <string name="app_name">English Practice</string>
+    <string name="log_in">LOGIN</string>
+    <string name="mail" translatable="false">Email</string>
+    <string name="log_out">logout</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Do not have an account?Sign up</string>
+    <string name="not_found">User not found</string>
+    <string name="wrong_password">Wrong password</string>
+
+    //register
+    <string name="login_txt">Already Registered!Login</string>
+    <string name="successful_register">Registered Successfully</string>
+    <string name="register_text">REGISTER</string>
+    <string name="already_exist">User already exists</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password_match">Entered passwords do not match</string>
+    <string name="empty_area">Empty or incorrect field exist</string>
+
+    //main
+    <string name="tutorial_text">TUTORIAL</string>
+    <string name="quiz_text">QUIZ</string>
+    <string name="score_text">SCORE</string>
+    <string name="translate_text">TRANSLATION</string>
+
+    //tutorial
+    <string name="tab1">WORDS</string>
+    <string name="tab2">GRAMMER</string>
+    <string name="tab3">DAILY CONVERSATION</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    //tutorial-word
+    <string name="above" translatable="false">Above</string>
+    <string name="across" translatable="false">Across</string>
+    <string name="act" translatable="false">Act</string>
+    <string name="afraid" translatable="false">Afraid</string>
+    <string name="against" translatable="false">Against</string>
+    <string name="ahead" translatable="false">Ahead</string>
+    <string name="air" translatable="false">Air</string>
+    <string name="all" translatable="false">All</string>
+    <string name="alone" translatable="false">Alone</string>
+    <string name="always" translatable="false">Always</string>
+    <string name="animal" translatable="false">Animal</string>
+    <string name="answer" translatable="false">Answer</string>
+    <string name="apple" translatable="false">Apple</string>
+    <string name="army" translatable="false">Army</string>
+
+    //tutorial-description
+    <string name="above_desc">In or to a higher position than something else.</string>
+    <string name="across_desc">From one side to the other of something with clear limits.</string>
+    <string name="act_desc">Anything done, being done, or to be done.</string>
+    <string name="afraid_desc">Feeling fear or anxiety; frightened.</string>
+    <string name="against_desc">Disagreeing with a plan or activity.</string>
+    <string name="ahead_desc">In front.</string>
+    <string name="air_desc">The mixture of gases around the Earth that we breathe.</string>
+    <string name="all_desc">The whole amount of something.</string>
+    <string name="alone_desc">Alone</string>
+    <string name="always_desc">Without other people.</string>
+    <string name="animal_desc">Anything that lives and moves, including people, birds, etc.</string>
+    <string name="answer_desc">A spoken or written reply or response to a question, request, letter, etc.</string>
+    <string name="apple_desc">A hard, round fruit with a green or red skin</string>
+    <string name="army_desc">A military force that fights wars on the ground</string>
+
+    //translation
+    <string-array name="languages">
+        <item>Turkish</item>
+        <item>English</item>
+        <item>German</item>
+    </string-array>
+    <string name="text">Enter Text</string>
+
+    //Grammers
+    <string name="simple_present_tense" translatable="false">Simple Present Tense</string>
+    <string name="simple_present_tense_desc">The simple present tense is one of several forms of present tense in English. It is used to describe habits, unchanging situations, general truths, and fixed arrangements.Just use the base form of the verb: (I take, you take, we take, they take) The 3rd person singular takes an -s at the end. (he takes, she takes)</string>
+    <string name="present_continuous" translatable="false">Present Continuous Tense</string>
+    <string name="present_continuous_desc">In English grammar, the present continuous is a verb construction comprised of a present form of the verb "to be" plus a present participle that usually conveys a sense of ongoing action at the present time.</string>
+    <string name="simple_past" translatable="false">Simple Past Tense</string>
+    <string name="simple_past_desc">The Past Simple tense, also called the Simple Past, is used for past actions that happened either at a specific time, which can either be given by a time phrase (yesterday, last year, etc.) or understood from the context.</string>
+    <string name="future" translatable="false">Future Tense</string>
+    <string name="future_desc">In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described by the verb as not having happened yet, but expected to happen in the future. </string>
+
+    //Score
+    <string-array name="score_array">
+        <item>Descending</item>
+        <item>Ascending</item>
+    </string-array>
+    <string name="sort_by">Sort by</string>
+
+
+    //QUIZ
+    <string name="hello">Hello</string>
+    <string name="score">Your score is:</string>
+    <string name="start">START</string>
+    <string name="ready">Get ready.Quiz will start in 3 seconds :)</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="remaining_time">Remaining time:</string>
+    <string name="warning">Warning</string>
+    <string name="times">Music is started</string>
+    <string name="rules">Rules:\n<b>1.</b>Quiz questions consist of multiple choice questions.\n<b>2.</b>It measures Gramer and vocabulary.\n<b>3.</b>The time given for each question is 1 minute.\n<b>4.</b>If the time is exceeded, even if the correct answer is given, the user will not be able to earn points.</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent_white"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/word_images"
+        android:layout_marginTop="8dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@mipmap/ic_launcher_round" />
+
+    <TextView
+        android:id="@+id/word_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/word_images"
+        android:layout_toRightOf="@+id/word_images"
+        android:maxLines="1"
+        android:text="Android Name"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/description_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/word_text"
+        android:layout_alignStart="@+id/word_text"
+        android:layout_alignLeft="@+id/word_text"
+        android:maxLines="1"
+        android:textColor="@color/black"
+        android:text="Android Version"
+        android:textSize="14sp" />
+
+
+
+</RelativeLayout>

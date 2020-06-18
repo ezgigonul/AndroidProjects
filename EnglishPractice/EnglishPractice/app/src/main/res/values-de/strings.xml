@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //login
+    <string name="app_name">English Practice</string>
+    <string name="user_name">Nutzername</string>
+    <string name="password">"Passwort  "</string>
+    <string name="log_in">Anmeldung</string>
+    <string name="log_out">ausloggen</string>
+    <string name="register">Sie haben noch keinen Account? Anmelden</string>
+    <string name="not_found">Benutzer wurde nicht gefunden</string>
+    <string name="wrong_password">Falsches passwort</string>
+
+    //register
+    <string name="login_txt">Bereits registriert! Anmelden</string>
+    <string name="successful_register">Erfolgreich Registriert</string>
+    <string name="register_text">REGISTER</string>
+    <string name="already_exist">Benutzer existiert bereits</string>
+    <string name="password_match">Eingegebene Passwörter stimmen nicht überein</string>
+    <string name="empty_area">Füllen Sie die leeren Felder aus</string>
+
+    //main
+    <string name="translate_text">ÜBERSETZUNG</string>
+    <string name="quiz_text">"QUIZ  "</string>
+    <string name="score_text">SCORE</string>
+    <string name="tutorial_text">LEARNPROGRAMM</string>
+
+    //tutorial
+    <string name="tab1">WÖRTER</string>
+    <string name="tab2">GRAMER</string>
+    <string name="tab3">TÄGLICHE KONVERSATION</string>
+    <string name="open">öffnen</string>
+    <string name="close">geschlossen</string>
+
+    //word
+    <string name="above_desc">In oder an einer höheren Position als etwas anderes.</string>
+    <string name="across_desc">Von einer Seite zur anderen von etwas mit klaren Grenzen.</string>
+    <string name="act_desc">Alles, was getan wird, getan wird oder getan werden muss.</string>
+    <string name="afraid_desc">Angst oder Furcht empfinden; erschrocken</string>
+    <string name="against_desc">Nicht einverstanden mit einem Plan oder einer Aktivität.</string>
+    <string name="ahead_desc">Vorne.</string>
+    <string name="air_desc">Die Mischung von Gasen um die Erde, die wir atmen.</string>
+    <string name="all_desc"> Die gesamte Menge von etwas.</string>
+    <string name="alone_desc">Allein.</string>
+    <string name="always_desc"> Ohne andere Personen. </string>
+    <string name="animal_desc">Alles, was lebt und sich bewegt, einschließlich Menschen, Vögel usw.</string>
+    <string name="answer_desc">Eine gesprochene oder schriftliche Antwort oder Antwort auf eine Frage, Anfrage, einen Brief usw. </string>
+    <string name="apple_desc">Eine harte, runde Frucht mit einer grünen oder roten Schale.</string>
+    <string name="army_desc">Eine Streitmacht, die Kriege am Boden führt.</string>
+
+    //translation
+    <string-array name="languages">
+        <item>Türkisch</item>
+        <item>Englisch</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string name="text">Text Eingeben</string>
+
+    //Grammers
+    <string name="simple_present_tense_desc">The simple present tense ist eine von mehreren Formen der Gegenwart in Englisch. Es wird verwendet, um Gewohnheiten, unveränderliche Situationen, allgemeine Wahrheiten und feste Vereinbarungen zu beschreiben.Verwenden Sie einfach die Grundform des Verbs:(I take, you take, we take, they take) The 3rd person singular takes an -s at the end. (he takes, she takes)</string>
+    <string name="present_continuous_desc">In der englischen Grammatik ist das gegenwärtige Kontinuum eine Verbkonstruktion, die aus einer gegenwärtigen Form des Verbs "sein" plus einem gegenwärtigen Partizip besteht, das normalerweise ein Gefühl des fortlaufenden Handelns in der gegenwärtigen Zeit vermittelt.</string>
+    <string name="simple_past_desc">Die Vergangenheitsform wird für vergangene Aktionen verwendet, die entweder zu einem bestimmten Zeitpunkt stattgefunden haben. Diese können entweder durch eine Zeitphrase (yesterday, last year, etc.)angegeben oder aus dem Kontext verstanden werden.</string>
+    <string name="future_desc">In der Grammatik ist eine Zukunftsform (abgekürzt FUT) eine Verbform, die das vom Verb beschriebene Ereignis im Allgemeinen als noch nicht eingetreten markiert, aber voraussichtlich in der Zukunft eintreten wird.</string>
+
+    //Score
+    <string-array name="score_array">
+        <item>Aufsteigend</item>
+        <item>Absteigend </item>
+    </string-array>
+    <string name="sort_by">sortiere nach</string>
+
+    //QUIZ
+    <string name="hello">Hallo</string>
+    <string name="score">Dein Ergebnis ist:</string>
+    <string name="start">START</string>
+    <string name="ready">Machen Sie sich bereit.Quiz startet in 3 Sekunden :)</string>
+    <string name="confirm">BESTÄTIGEN</string>
+    <string name="remaining_time">Verbleibende zeit:</string>
+    <string name="warning">Warnung</string>
+    <string name="times">Musik wird gestartet</string>
+    <string name="rules">Regeln:\n<b>1.</b>Quizfragen bestehen aus Multiple-Choice-Fragen.\n<b>2.</b>Sie messen Gramer und Wortschatz.\n<b>3.</b>Die für jede Frage angegebene Zeit beträgt 1 Minute.\n<b>4.</b>Wenn die Zeit überschritten wird, kann der Benutzer selbst dann keine Punkte sammeln, wenn die richtige Antwort gegeben wird.</string>
+    Keine Panik. Sie können mehr aus dem Tutorial-Bereich üben.
+
+</resources>

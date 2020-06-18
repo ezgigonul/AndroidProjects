@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NestedFragmentApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_left_blank_fragment">Left Fragment{Hello World!}</string>
+    <string name="hello_right_blank_fragment">Right Fragment{Hello World!}</string>
+    <string name="launch_nested_fragment">LAUNCH NESTED FRAGMENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt">This is some text</string>
+    <string name="left_child_text">*** I saw cout being shifted Hello Word times to the left and stopped right there.(Steve Gonedes). ***</string>
+    <string name="right_child_text">*** Thats whats cool about working with cmputers.They dont argue,they remember eveything,and they dont drink all your beer. (Paul Leary) ***</string>
+</resources>

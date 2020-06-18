@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cardview Application</string>
+
+    <string name="dessert_1">Chocolate Tiffin</string>
+    <string name="dessert_1_description">Go all out and treat yourself to these chocolate tiffin slices, full of milk and dark chocolate, raisins and biscuit. Be warned: they wont last long!</string>
+
+
+    <string name="dessert_2">Chocolate Molten Cakes</string>
+    <string name="dessert_2_description">Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre</string>
+
+
+    <string name="dessert_3">Floating Island</string>
+    <string name="dessert_3_description">Whip up some floating islands at your next dinner party, the retro-cool French dessert featuring crème anglaise, meringue and caramel</string>
+
+    <string name="dessert_4">Treacle Tart</string>
+    <string name="dessert_4_description">Treat family and friends to a comforting treacle tart with crumbly pastry and rich filling. A classic British dessert, serve with ice cream or clotted cream</string>
+
+    <string name="dessert_5">White Chocolate Cheesecake</string>
+    <string name="dessert_5_description">Whip up some floating islands at your next dinner party, the retro-cool French dessert featuring crème anglaise, meringue and caramel</string>
+    <string name="todo">TODO</string>
+</resources>
